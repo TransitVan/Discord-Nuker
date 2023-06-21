@@ -1,8 +1,22 @@
-# Discord-Nuker
-Short Discord Nuker, Quick To Load And Updated Often
+GET REXT
 
-Make sure you can use the following libraries:
-discord
-colorama 
+GET REXT
+GET REXT
+GET REXT
 
-NOTE: Token in the client.py file needs to be changed to your bots token
+GET REXT
+
+GET REXT
+GET REXT
+GET REXT
+
+GET REXT
+GET REXT
+GET REXT
+
+GET REXT
+GET REXT
+
+GET REXT
+GET REXT
+GET REXT
